@@ -29,6 +29,8 @@ ehthumbs.db
 # ===============
 [Oo]bj/
 [Bb]uild/
-Library/Artifacts/
+/Library/
+/Logs/
+/UserSettings/ 
 sysinfo.txt
 *.stackdump
