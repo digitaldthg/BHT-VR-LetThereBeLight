@@ -1,0 +1,10 @@
+
+=== Thu Jun 10 15:06:24 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.timeline@1.4.6
+The following packages were updated:
+  com.unity.xr.management from version 3.2.16 to 4.0.1
